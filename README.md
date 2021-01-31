@@ -15,13 +15,13 @@ Based on the table above, the data shows that the urban cities earn the highest 
 
 ![Total_Fare_by_City_Type](https://github.com/dkatragadda/PyBer_Analysis/blob/main/analysis/Total_Fare_by_City_Type.png)
 
-The line chart denotes the total fares by city type when plotted against the month. As can be seen, the fares in the urban cities supercedes the fares in suburban or rural cities. 
+The line chart denotes the total fares by city type when plotted against the month. As can be seen, the fares in the urban cities supercedes the fares in suburban or rural cities. In the last month on the chart, April, the suburban fares seem to have increased while the fares in the urban and rural cities have dropped or remained flat. All the city types seem to have some volatility in the fares by week while observing the chart. 
 
 
 ## Summary
 
 The three major recommendations to be proposed are:
 
-1. Continue to maintain service levels in urban cities as they are the primary revenue drivers for the company.  
-2. Focus on increasing the supply pool in rural cities as the driver count is low compared to the suburban and urban markets. 
-3. Leverage the learnings from the urban cities to grow the suburban and rural markets as the average fare per ride and average fare per driver are higher. 
+1. Investigate causes for spike in fares in suburban cities in April 2019 while there is a decline in the urban and rural cities. There may be learnings or market conditions to adapt to accordingly depending on the city type.  
+2. Investigate and replicate the demand from the last week of Feb 2019 if possible. The fares are peaking in all types of cities.  
+3. Leverage the learnings from the urban cities to grow the suburban and rural markets as the average fare per ride and average fare per driver are higher in the rural and suburban markets. 
